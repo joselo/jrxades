@@ -53,6 +53,12 @@ Esta gema es solo hace referencias a las clases creadas por Cristhian Carreño, 
 
     http://webcarreno.org/index.php/tutorials/28-sri-tutorial/24-sri-firma-digital-xades-bes
 
+## Código Java
+
+El proyecto que contiene el código base de java se encuentra en
+
+    https://github.com/joselo/sri
+
 ## Para contribuir
 
 Clonar el repositorio
