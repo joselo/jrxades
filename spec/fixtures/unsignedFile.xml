@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://0.0.0.0:9292/xsd/factura.xsd">
+  <infoTributaria>
+    <ambiente>1</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>José Augusto Carrión Jumbo</razonSocial>
+    <nombreComercial>Nationcode</nombreComercial>
+    <ruc>1103671804001</ruc>
+    <claveAcceso>1510201501110367180400110000080000000080754713012</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000000008</secuencial>
+    <dirMatriz>Paraguay 24-38 y Nicaragua</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>15/10/2015</fechaEmision>
+    <dirEstablecimiento>Paraguay 24-38 y Nicaragua</dirEstablecimiento>
+    <contribuyenteEspecial>12345</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>José Carrión</razonSocialComprador>
+    <identificacionComprador>1103671804</identificacionComprador>
+    <totalSinImpuestos>16.99</totalSinImpuestos>
+    <totalDescuento>0.0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>3</codigo>
+        <codigoPorcentaje>3092</codigoPorcentaje>
+        <baseImponible>15.99</baseImponible>
+        <valor>2.4</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <baseImponible>19.39</baseImponible>
+        <valor>2.33</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>21.72</importeTotal>
+    <moneda>DOLAR</moneda>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>1</codigoPrincipal>
+      <codigoAuxiliar>1</codigoAuxiliar>
+      <descripcion>Test Item 1</descripcion>
+      <cantidad>1.0</cantidad>
+      <precioUnitario>15.99</precioUnitario>
+      <descuento>0.0</descuento>
+      <precioTotalSinImpuesto>15.99</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>3</codigo>
+          <codigoPorcentaje>3092</codigoPorcentaje>
+          <tarifa>15.0</tarifa>
+          <baseImponible>15.99</baseImponible>
+          <valor>2.4</valor>
+        </impuesto>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.0</tarifa>
+          <baseImponible>18.39</baseImponible>
+          <valor>2.21</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>2</codigoPrincipal>
+      <codigoAuxiliar>2</codigoAuxiliar>
+      <descripcion>Test Item 2</descripcion>
+      <cantidad>1.0</cantidad>
+      <precioUnitario>1.0</precioUnitario>
+      <descuento>0.0</descuento>
+      <precioTotalSinImpuesto>1.0</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.0</tarifa>
+          <baseImponible>1.0</baseImponible>
+          <valor>0.12</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+</factura>
