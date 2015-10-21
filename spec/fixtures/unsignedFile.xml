@@ -3,24 +3,24 @@
   <infoTributaria>
     <ambiente>1</ambiente>
     <tipoEmision>1</tipoEmision>
-    <razonSocial>José Augusto Carrión Jumbo</razonSocial>
-    <nombreComercial>Nationcode</nombreComercial>
-    <ruc>1103671804001</ruc>
-    <claveAcceso>1510201501110367180400110000080000000080754713012</claveAcceso>
+    <razonSocial>Distribuidora de Suministros Nacional S.A</razonSocial>
+    <nombreComercial>Empresa Importadora y Exportadora de Piezas y Partes de Equipos de Oficina</nombreComercial>
+    <ruc>1792146739001</ruc>
+    <claveAcceso>2410201107179214673900110020010000000011234567815</claveAcceso>
     <codDoc>01</codDoc>
     <estab>001</estab>
     <ptoEmi>001</ptoEmi>
     <secuencial>000000008</secuencial>
-    <dirMatriz>Paraguay 24-38 y Nicaragua</dirMatriz>
+    <dirMatriz>Enrique Guerrero Portilla OE1-34 AV. GALO PLAZA LASSO</dirMatriz>
   </infoTributaria>
   <infoFactura>
     <fechaEmision>15/10/2015</fechaEmision>
-    <dirEstablecimiento>Paraguay 24-38 y Nicaragua</dirEstablecimiento>
+    <dirEstablecimiento>Enrique Guerrero Portilla OE1-34 AV. GALO PLAZA LASSO</dirEstablecimiento>
     <contribuyenteEspecial>12345</contribuyenteEspecial>
     <obligadoContabilidad>SI</obligadoContabilidad>
     <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
-    <razonSocialComprador>José Carrión</razonSocialComprador>
-    <identificacionComprador>1103671804</identificacionComprador>
+    <razonSocialComprador>Juan Pablo Chávez Nuñez</razonSocialComprador>
+    <identificacionComprador>1713328506001</identificacionComprador>
     <totalSinImpuestos>16.99</totalSinImpuestos>
     <totalDescuento>0.0</totalDescuento>
     <totalConImpuestos>
